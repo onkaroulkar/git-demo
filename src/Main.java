@@ -11,8 +11,15 @@ public class Main {
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
             System.out.println("i = " + i);
             System.out.println("Onkar Subhash Oulkar");
+<<<<<<< HEAD
 
             System.out.println("Capgemini India Private Limited");
+=======
+            System.out.println("Tata consultancy India private limited");
+
+
+            System.out.println("Onkar is greate man");
+>>>>>>> feature
         }
 
     }
